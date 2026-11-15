@@ -1,0 +1,19 @@
+@relation 'fait_ventes-weka.filters.unsupervised.attribute.Remove-R1,3-6'
+
+@attribute ID_Client_SK numeric
+@attribute Delai_Livraison numeric
+
+@data
+1,2
+1,2
+1,2
+2,5
+2,5
+5,12
+5,12
+5,12
+1,7
+1,7
+1,7
+4,2
+4,2
